@@ -17,7 +17,7 @@ This repository contains **support files** for the [LEOHS Python package](https:
   Use this to confirm that your Area of Interest (AOI) intersects a valid overlap region.
 
 - **`apply_leohs.ipynb`**  
-  A Jupyter notebook that demonstrates how to **apply LEOHS regression equations** to multiband imagery (e.g., for generating harmonized Landsat composites).
+  A Jupyter notebook that demonstrates how to **apply LEOHS regression equations** to multiband imagery.
 
 ---
 
