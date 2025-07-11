@@ -10,10 +10,10 @@ This repository contains **support files** for the [LEOHS Python package](https:
 ## 📁 Repository Contents
 
 - **`Global_Harmonization_functions_SRandTOA.txt`**  
-  A set of globally derived regression equations to harmonize Landsat 7 ↔ 8 reflectance values under different conditions.
+  A set of globally derived regression equations to harmonize Landsat 7 and 8 reflectance values.
 
 - **`WRS_overlaps.zip`**  
-  A shapefile containing the **WRS-2 Overlap zones**, required for LEOHS.  
+  A shapefile containing the **WRS-2 Overlap zones**.  
   Use this to confirm that your Area of Interest (AOI) intersects a valid overlap region.
 
 - **`apply_leohs.ipynb`**  
