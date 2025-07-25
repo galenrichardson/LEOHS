@@ -1,6 +1,6 @@
 # 🌍 LEOHS: Landsat Harmonization Toolkit (Support Repository)
 
-This repository contains **support files** for the [LEOHS Python package](https://pypi.org/project/leohs/), a tool for harmonizing Landsat imagery using Google Earth Engine.
+This repository contains **support files** for the [LEOHS Python package](https://pypi.org/project/leohs/), a tool for harmonizing Landsat imagery using Google Earth Engine. The publication explaining the LEOHS tool can be found here: **[A tool for global and regional Landsat 7 and Landsat 8 cross-sensor harmonization](https://doi.org/10.1080/10106049.2025.2538108)**.
 
 > 📦 **Installation and full documentation** are available on the PyPI project page:  
 > 🔗 [https://pypi.org/project/leohs](https://pypi.org/project/leohs)
