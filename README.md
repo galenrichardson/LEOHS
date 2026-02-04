@@ -17,7 +17,10 @@ This repository contains **support files** for the [LEOHS Python package](https:
   Use this to confirm that your Area of Interest (AOI) intersects a valid overlap region.
 
 - **`apply_leohs.ipynb`**  
-  A Jupyter notebook that demonstrates how to **apply LEOHS regression equations** to multiband imagery.
+  A Jupyter notebook that can be used to **apply LEOHS regression equations** to multiband imagery.
+
+  - **`apply_harmonization_XGB.ipynb`**  
+  A Jupyter notebook that can be used to **apply LEOHS XGB models** to multiband imagery.
 
 ---
 
