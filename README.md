@@ -19,7 +19,7 @@ This repository contains **support files** for the [LEOHS Python package](https:
 - **`apply_leohs.ipynb`**  
   A Jupyter notebook that can be used to **apply LEOHS regression equations** to multiband imagery.
 
-  - **`apply_harmonization_XGB.ipynb`**  
+- **`apply_harmonization_XGB.ipynb`**  
   A Jupyter notebook that can be used to **apply LEOHS XGB models** to multiband imagery.
 
 ---
