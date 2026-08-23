@@ -1,6 +1,6 @@
 # 🌍 LEOHS: Landsat Harmonization Toolkit (Support Repository)
 
-This repository contains **support files** for the [LEOHS Python package](https://pypi.org/project/leohs/), a tool for harmonizing Landsat imagery using Google Earth Engine. The publication explaining the LEOHS tool can be found here: **[A tool for global and regional Landsat 7 and Landsat 8 cross-sensor harmonization](https://doi.org/10.1080/10106049.2025.2538108)**.
+This repository contains **support files** for the [LEOHS Python package](https://pypi.org/project/leohs/), and related publications. The paper explaining the LEOHS tool can be found here: **[A tool for global and regional Landsat 7 and Landsat 8 cross-sensor harmonization](https://doi.org/10.1080/10106049.2025.2538108)**.
 
 > 📦 **Installation and full documentation** are available on the PyPI project page:  
 > 🔗 [https://pypi.org/project/leohs](https://pypi.org/project/leohs)
@@ -22,12 +22,7 @@ This repository contains **support files** for the [LEOHS Python package](https:
 - **`apply_harmonization_XGB.ipynb`**  
   A Jupyter notebook that can be used to **apply LEOHS XGB models** to multiband imagery.
 
+- **`Incorporating Multiple Bands and Land Cover Improves Cross-Sensor Normalization`**  
+  This folder contains data and notebooks used to make this publication.
+
 ---
-
-## 📌 Note
-
-This repository **does not contain the core LEOHS tool** — it is distributed through PyPI.  
-You must install it via:
-
-```bash
-pip install leohs
